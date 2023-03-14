@@ -1,1 +1,1 @@
-This repository contains solutions to HackerRank practice quesitons.
+This repository contains solutions to HackerRank practice questions.
